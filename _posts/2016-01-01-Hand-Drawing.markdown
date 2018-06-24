@@ -2,7 +2,7 @@
 layout: post
 modal-id: 2
 date: 2014-07-18
-img: setup-icon.png
+img: img/Design.png
 alt: "Hobbies"
 project-date: December 2016
 category: Drawing
