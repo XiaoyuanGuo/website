@@ -2,7 +2,7 @@
 layout: post
 modal-id: 1
 date: 2016-10-24
-img: code.png
+img: Paper.png
 alt: "CV"
 project-date: May 2016
 category: Resume
