@@ -13,7 +13,7 @@ Keywords: <a href="http://positronicslab.github.io/research/simulation/">Jimi</a
 ---
 
 ### Taking Photos
-![taking-photo](img/Taking-photos.jpg)
+![taking-photo](img/Sunset-campus.jpg)
 
 ### Cute Cartoons
 ![cartoons](img/Pop.jpg)
