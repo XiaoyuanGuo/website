@@ -21,6 +21,14 @@ Jiali Duan, Shuai Zhou, Jun Wan, Xiaoyuan Guo, and Stan Z. Li, "Multi-Modality F
 
 ### Research history:
 
+
+#### <a href="http://www.mathcs.emory.edu/site/home/" target="_blank">Department of Mathematics and Computer Science</a>
+Emory University
+:Phd
+:August 2017 - Present
+:Decatur,Atlanta,Georiga, USA
+
+
 #### <a href="http://ceit.ucas.ac.cn/" target="_blank">School of Engineering Science</a>
  University of Chinese Academy of Sciences (UCAS)
 : Master
