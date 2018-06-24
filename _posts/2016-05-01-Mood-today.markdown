@@ -11,6 +11,8 @@ description: Curriculum vitae
 
 ### Publications
 
+Xiaoyuan Guo, Hanyi Yu, Blair Rossetti, George Teodoro, Daniel Brat and Jun Kong, "Clumped Nuclei Segmentation with Adjacent Point Match and Local Shape-Based Intensity Analysis in Fluorescence Microscopy Images",<i> EMBC, July 2018. [Oral] <i>
+
 Xiaoyuan Guo, Jun Xiao and  Ying Wang, "A survey on algorithms of hole filling  in 3D surface", <i>The Visual Computer[J]</i>, Sep 2016. [<a href="A Survey on Algorithms of Hole Filling in 3D Surface Reconstruction.pdf">XiaoyuanGuo2016</a>]
 
 Jiali Duan, Shengcai Liao, Xiaoyuan Guo, Stan Z. Li, "Face detection by aggregating visible components", <i>ACCV Workshop (Oral Presentation)</i>, 2016. [<a href="accv2016finalpaper.pdf">XiaoyuanGuo2016</a>]
